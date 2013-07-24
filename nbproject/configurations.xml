@@ -24,6 +24,8 @@
                    kind="IMPORTANT_FILES_FOLDER">
       <itemPath>Makefile</itemPath>
     </logicalFolder>
+    <itemPath>SpriteSheetReader.cpp</itemPath>
+    <itemPath>SpriteSheetReader.h</itemPath>
   </logicalFolder>
   <projectmakefile>Makefile</projectmakefile>
   <confs>
@@ -36,6 +38,10 @@
       </toolsSet>
       <compileType>
       </compileType>
+      <item path="SpriteSheetReader.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="SpriteSheetReader.h" ex="false" tool="3" flavor2="0">
+      </item>
     </conf>
     <conf name="Release" type="2">
       <toolsSet>
@@ -58,6 +64,10 @@
           <developmentMode>5</developmentMode>
         </asmTool>
       </compileType>
+      <item path="SpriteSheetReader.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="SpriteSheetReader.h" ex="false" tool="3" flavor2="0">
+      </item>
     </conf>
   </confs>
 </configurationDescriptor>
