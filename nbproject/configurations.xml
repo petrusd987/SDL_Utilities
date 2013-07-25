@@ -12,6 +12,7 @@
     <logicalFolder name="SourceFiles"
                    displayName="Source Files"
                    projectFiles="true">
+      <itemPath>Constants.h</itemPath>
     </logicalFolder>
     <logicalFolder name="TestFiles"
                    displayName="Test Files"
@@ -38,6 +39,8 @@
       </toolsSet>
       <compileType>
       </compileType>
+      <item path="Constants.h" ex="false" tool="3" flavor2="0">
+      </item>
       <item path="SpriteSheetReader.cpp" ex="false" tool="1" flavor2="0">
       </item>
       <item path="SpriteSheetReader.h" ex="false" tool="3" flavor2="0">
@@ -64,6 +67,8 @@
           <developmentMode>5</developmentMode>
         </asmTool>
       </compileType>
+      <item path="Constants.h" ex="false" tool="3" flavor2="0">
+      </item>
       <item path="SpriteSheetReader.cpp" ex="false" tool="1" flavor2="0">
       </item>
       <item path="SpriteSheetReader.h" ex="false" tool="3" flavor2="0">
